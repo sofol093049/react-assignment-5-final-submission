@@ -1,0 +1,14 @@
+
+  {
+    "bookId": 2,
+    "bookName": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://heartspoken.com/wp-content/uploads/2019/03/Becoming-Book-Review-Post-Graphic.jpg",
+    "review": "An inspiring memoir that traces the life of one of America's most iconic first ladies.",
+    "totalPages": 448,
+    "rating": 4.8,
+    "category": "Memoir",
+    "tags": ["Inspiring", "Political", "Biography"],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2018
+  }

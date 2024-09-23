@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button_margin{
+    margin-left: 40%;
+  }
+  .navbar_width{
+    width:90%;
+  }
+  .banner_width{
+    width:90%;
+  }
+  .accordian_width{
+    width:50%;
+  }
+  .single_book_page{
+    
+    margin:2px;
+   
+  }
+  @media only screen and (max-width: 1024px) {
+    .navbar_width{
+      width:90%;
+    }
+    .button_margin{
+      margin-left: 35%;
+    }
+    @media only screen and (min-width: 425px) {
+      .navbar_width{
+        width:100%;
+      }
+      .button_margin{
+        margin-left: 0%;
+      }
+    }
+   
+  }
