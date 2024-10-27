@@ -1,8 +1,6 @@
-# React + Vite
+This is an online "course buying application" which frontend is based on react,tailwind,daisy and the backend is express. The Mongodb database is used for holding and retrieving information.It runs in localhost absolutely fine but in vercel if any page is refreshed then error comes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend deployment link:https://assnmnt-five-backend-github.onrender.com/
+Backend github repo link: https://github.com/sofol093049/assnmnt-five-backend-github.git
+Frontend deployment link: https://react-assignment-three-copy-copy.vercel.app/
+Frontend github link:https://github.com/sofol093049/react-assignment-5-final-submission.git
